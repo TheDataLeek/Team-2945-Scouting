@@ -1,0 +1,5 @@
+ERROR 3: Data issue, alpha-characters['1764', '2', '7', '6', '4', '1', '1', '5', '4', '1', '7', '', 'No']
+ERROR 3: Data issue, alpha-characters['2259', '40', '1', '4', '5', '1', '1', '1', '6', '1', '2', '', 'Y']
+ERROR 3: Data issue, alpha-characters['1583', '41', '9', '8', '5', '1', '10', '8', '6', '1', '7', '', 'Y']
+ERROR 3: Data issue, alpha-characters['2996', '41', '10', '8', '8', '1', '10', '10', '10', '9', '10', '', 'Y']
+ERROR 3: Data issue, alpha-characters[' Team #', 'Match #', 'Autonomous', 'Agility', 'Speed', 'Bump', 'Balance', 'Bridge', 'Dunk', 'Assist', 'Acquisition', 'Strategy', 'Won?']
